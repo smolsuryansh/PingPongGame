@@ -7,8 +7,7 @@ A basic Ping Pong Game using java, this is what the game looks like:
 
 (I am still learning java please dont judge) 
 
-Download: [here](https://github.com/smolsuryansh/PingPongGame/releases)
+# Download: [here](https://github.com/smolsuryansh/PingPongGame/releases)
 
-It is recommeded that you download JDK from the link below:
-Download: [here](https://www.oracle.com/java/technologies/downloads/)
+# It is recommeded that you download JDK: [here](https://www.oracle.com/java/technologies/downloads/)
 
